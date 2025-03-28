@@ -28,7 +28,6 @@ export const mainBanner = style({
   },
 });
 export const bannerSemiBlock = style({
-  boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08)",
   display: "flex",
   flexDirection: "column",
   alignItems: "center",
@@ -63,7 +62,6 @@ export const titlesBanner = style({
   height: "auto",
   backgroundColor: "white",
   borderRadius: "50px",
-  boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08)",
 });
 
 export const titles = style({
@@ -82,7 +80,6 @@ export const titles = style({
 });
 
 export const lessImportantBanner = style({
-  boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08)",
   display: "flex",
   flexDirection: "column",
   justifyContent: "center",
