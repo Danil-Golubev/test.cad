@@ -1,6 +1,6 @@
 # Тестовое задание для Frontend CAD Exchanger
 
-## [Ссылка на проект (Vercel)]('https://test-cadexchanger.vercel.app/')
+## [Ссылка на проект (Vercel)](https://test-cadexchanger.vercel.app)
 
 ---
 
