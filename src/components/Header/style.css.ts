@@ -5,7 +5,6 @@ export const headerBlock = style({
   width: "100%",
   height: "100px",
   display: "flex",
-  boxShadow: "0 2px 4px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.05)",
   boxSizing: "border-box",
   alignItems: "center",
   backgroundColor: "white",
