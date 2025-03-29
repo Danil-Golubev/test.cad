@@ -8,7 +8,7 @@
 
 - **Frontend**: React, Typescript
 - **Стилизация**: Vanilla Extract (CSS-in-JS)
-- **Сборка и разработка**: Vite
+- **Сборка**: Vite
 
 ## Используемые библиотеки:React router DOM, React Hook form, vercel/node, Ant Design,
 
@@ -17,8 +17,6 @@
 ## Главная страница:
 
 - Включает заголовок, текст и встроенный YouTube видеоплеер.
-
-- Страница имеет фиксированный хедер и футер.
 
 ## Страница связи:
 
